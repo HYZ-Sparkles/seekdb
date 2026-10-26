@@ -64,6 +64,8 @@ MySQL-compatible · Embedded or Server · Hybrid Vector + Full-text Search · CO
 
 </div>
 
+OB-P:ii7kyJniIlrjOnWwhbKihg
+
 ## ⚡ Performance at a Glance
 
 <div align="center">
